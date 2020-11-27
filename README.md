@@ -1,0 +1,2 @@
+# Pet-Store-Customer-Segmentation-NY
+GETTING FAMILIAR WITH CUSTOMERS FOR A NYC PET STORE
